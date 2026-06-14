@@ -171,3 +171,10 @@ smart-doc-assistant/
 └── .env.example
 ```
 
+---
+
+## Author
+
+**Oleg Sadykhov** — M.Sc. student, Faculty of AI Technologies (AI in Industry track), ITMO University, Saint Petersburg, Russia
+[ovelsad23@gmail.com](mailto:ovelsad23@gmail.com) · [github.com/ovelsad](https://github.com/ovelsad)
+
